@@ -1,5 +1,7 @@
 # QR Code Generator using Python
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/QR-Code-Generator)
+
 This Streamlit app allows users to generates a QR code for a given URL.
 
 ## Live Demo
